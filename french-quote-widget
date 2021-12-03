@@ -1,0 +1,50 @@
+
+<!doctype html>
+<html lang="en" style="font-family: proxima-nova, sans-serif !important;">
+
+<head>
+  <meta charset="utf-8">
+  <title>WidgetBox - Notion Widgets</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+
+  <!-- BootStrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+  <link rel="stylesheet" href="https://use.typekit.net/jwm5qir.css">
+
+
+  <!-- JQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <!-- Popper -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <!-- BootStrap JS -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZbS6lRFbF9TMyvi_kVe4q4MNOojHL1oc&amp;libraries=places&amp;language=en"></script>
+
+
+
+<link rel="stylesheet" href="styles.3e1a0e09f1a834e208b1.css"></head>
+
+<body class="dark font-sans">
+  <app-root></app-root>
+
+
+
+<script src="runtime-es2015.0dae8cbc97194c7caed4.js" type="module"></script><script src="runtime-es5.0dae8cbc97194c7caed4.js" nomodule defer></script><script src="polyfills-es5.12b5c32d1603e35dd556.js" nomodule defer></script><script src="polyfills-es2015.09ee2f719bd21ab5c7b1.js" type="module"></script><script src="scripts.a4d51dc725454f3a86b9.js" defer></script><script src="main-es2015.eecef9e9dd3f2c6c47e2.js" type="module"></script><script src="main-es5.eecef9e9dd3f2c6c47e2.js" nomodule defer></script></body>
+
+</html>
